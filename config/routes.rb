@@ -5,6 +5,7 @@ Davetest::Application.routes.draw do
 
   root :to => 'pages#home'
   get 'about' => 'pages#about'
+  get 'test' => 'pages#test'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

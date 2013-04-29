@@ -1,0 +1,152 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/kgio-2.7.4/ext/kgio/gem_make.out",
+		"/C/Sites/hubstaff-server/config/dblocal.yml",
+		"/C/Sites/hubstaff-server/config/routes.rb",
+		"/C/Sites/davetest/app/views/devise/registrations/new.html.erb",
+		"/C/Sites/davetest/app/views/devise/registrations/edit.html.erb",
+		"/C/Sites/davetest/app/views/devise/sessions/new.html.erb",
+		"/C/Sites/davetest/Gemfile",
+		"/C/Sites/davetest/app/views/layouts/application.html.erb",
+		"/C/Sites/davetest/app/views/layouts/_header.html.erb",
+		"/C/Sites/davetest/app/assets/stylesheets/styles.css.scss.css",
+		"/C/Sites/davetest/app/views/pages/home.html.erb",
+		"/C/Sites/davetest/config/environments/production.rb",
+		"/C/Sites/davetest/config/application.rb",
+		"/C/Sites/davetest/config/environments/development.rb",
+		"/C/Sites/davetest/app/assets/javascripts/application.js",
+		"/C/Sites/davetest/app/views/layouts/_footer.html.erb",
+		"/C/Sites/davetest/app/views/pages/about.html.erb",
+		"/C/Sites/davetest/config/routes.rb",
+		"/C/Sites/davetest/app/controllers/pages_controller.rb",
+		"/C/Sites/davetest/README.rdoc"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 178.0,
+	"status_bar_visible": true
+}
